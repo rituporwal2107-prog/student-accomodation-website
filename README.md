@@ -27,6 +27,7 @@ A responsive, web-based platform built for students to easily search, filter, an
 
 ## 📂 Project Structure
 
+```text
 pg-finder/
 ├── db_connect.php        # Database connection script
 ├── index.php             # Main homepage with filtering & property cards
@@ -34,15 +35,10 @@ pg-finder/
 ├── signup.php            # User registration page
 ├── login.php             # User login page
 └── student_housing.sql   # Database schema and sample data export
+⚡ Setup & Installation
+Clone the Repository:
+git clone https://github.com/rituporwal2107-prog/student-accomodation-website.git
 
-
----
-
-## ⚡ Setup & Installation
-
-1. **Clone/Download the Repository:**
-   ```bash
-   git clone [https://github.com/rituporwal2107-prog/student-accomodation-website.git](https://github.com/rituporwal2107-prog/student-accomodation-website.git)
 Move to Server Directory:
 Copy the project folder to your XAMPP server directory (C:/xampp/htdocs/pg-finder).
 
